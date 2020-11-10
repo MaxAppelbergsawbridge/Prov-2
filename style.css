@@ -1,0 +1,35 @@
+.boxes
+{
+display:flex;
+flex-direction: row;
+}
+
+.box1
+{
+display:flex;
+
+}
+.box2
+{
+display:flex;
+
+}
+.about
+{
+display:flex;
+align-content: center;
+}
+.nav ul li 
+{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.Logo img
+{
+    display: flex;
+    align-content: center;
+    width: 5em;
+}
